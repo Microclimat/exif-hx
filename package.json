@@ -1,0 +1,34 @@
+{
+  "name": "exifhx",
+  "description": "Haxe externs for exif-js",
+  "keywords": [
+    "exif",
+    "haxe"
+  ],
+  "author": {
+    "name": "David Mouton"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "",
+  "preferGlobal": false,
+  "homepage": "https://github.com/Microclimat/exif-hx",
+  "bugs": {
+    "url": "https://github.com/Microclimat/exif-hx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Microclimat/exif-hx.git"
+  },
+  "config": {
+    "haxe:version": "3.2.1"
+  },
+  "dependencies": {
+    "haxe": "4.0.0",
+    "taminahx": ">=1.0.18"
+  },
+  "readmeFilename": "README.md"
+}
